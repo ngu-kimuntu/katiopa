@@ -7,6 +7,7 @@ const nextConfig = {
   basePath: '/katiopa',
   assetPrefix: '/katiopa/',
   trailingSlash: true,
+  distDir: 'out',
 }
 
 module.exports = nextConfig
